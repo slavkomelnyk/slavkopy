@@ -1,0 +1,8 @@
+README.md
+setup.py
+slavkopy.egg-info/PKG-INFO
+slavkopy.egg-info/SOURCES.txt
+slavkopy.egg-info/dependency_links.txt
+slavkopy.egg-info/top_level.txt
+src/slavkopy/__init__.py
+src/slavkopy/code.py
